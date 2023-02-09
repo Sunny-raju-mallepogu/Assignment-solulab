@@ -1,0 +1,21 @@
+div p
+{
+    font-size: 10px;
+    color: rgba(0, 0, 0, 0.3);
+    margin-right: 10px;
+}
+.none{
+    text-decoration: none;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.green-b
+{
+    border: 1px solid #29B712;
+    width: 70px;
+    height: 50px;
+    background-color: #29B712;
+}

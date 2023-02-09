@@ -1,0 +1,169 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.contain
+{
+    
+    position: absolute;
+    top: 0%;
+    left: 10%;
+}
+.img
+{
+    position: absolute !important;
+    top: 10% !important;
+}
+.postion-info
+{
+   position: relative;
+   left: 70%;
+}
+.text-info
+{
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: 
+    rgba(36, 40, 49, 1) !important;
+
+}
+.line
+{
+    line-height: 5px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Source+Serif+4:ital,opsz@1,8..60&display=swap');
+.send-message
+{
+    border: 1px solid  rgba(0, 0, 0, 0.3);
+    margin-right:50%;
+    color: #242831;
+    text-align: center;
+    padding: 2px 6px !important;
+    
+font-family: 'Source Serif 4';
+    font-size: 12px;
+    
+
+}
+.file-text
+{
+    font-size: 14px;
+}
+.check-up
+{
+    font-size: 10px;
+}
+.new-info
+{
+    font-size: 10px !important;
+    color:rgba(107, 107, 107, 1) !important;
+    font-family: 'Open Sans', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,200&display=swap');
+.new-info-data
+{
+    font-size: 12px !important;
+    color:
+    rgba(36, 40, 49, 1);
+    font-family: 'Open Sans', sans-serif;
+  
+}
+.border-data
+{
+    border-bottom: 2px solid lightgrey;
+}
+.margin-info
+{
+    
+    box-sizing: border-box;
+    
+}
+.text-primary
+{
+    color: blue !important;
+}
+.bg-info 
+{
+    background-color:
+    lightgray;
+    width: 400px !important;
+}
+.bg-data
+{
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    border-radius: 3px;
+    
+}
+.background-info
+{
+    background-color: lightgrey;
+    width: 460px !important;
+    height: 150px !important;
+}
+.col-info
+{
+    position: relative;
+    right: 20px;
+    background-color: white;
+    text-align: center;
+    border-radius: 3px;
+}
+.font-info
+{
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.border-bottom
+{
+    border-bottom: 2px solid white;
+}
+.info-1
+{
+    background-color: white;
+    width:440px;
+    height: 40px;
+}
+.font-change
+{
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.changes
+{
+    font-size: 14px;
+    font-weight: bold;
+}
+.font-weight-bold
+{
+    font-weight: bold;
+}
+.font-change-info
+{
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.last-data
+{
+    position: relative;
+    top: 10px;
+    font-size: 9px;
+}
+.position-info
+{
+    position: relative;
+    right: 24px;
+}
+.color-style
+{
+    color:  rgba(0, 0, 0, 0.3);
+}
+.bg-info
+{
+    background-color:rgba(0, 0, 0, 0.1) !important;
+    margin-right:80% !important;
+    
+}
